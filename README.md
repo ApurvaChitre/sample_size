@@ -1,13 +1,7 @@
----
-title: "Code and Corresponding Metadata Information for 'Exponential Increase in QTL Detection with Increased Sample Size' by Chitre et al. 2023"
-author: ""
-date: ""
-output: 
-  pdf_document:
-urlcolor: blue
-linkcolor: red
----
 
+Code and Corresponding Metadata Information for 'Exponential Increase in QTL Detection with Increased Sample Size' by Chitre et al. 2023
+
+-----------------
 
 # Prerequisites
 
