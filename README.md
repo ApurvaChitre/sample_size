@@ -1,8 +1,4 @@
 
-Code and Corresponding Metadata Information for 'Exponential Increase in QTL Detection with Increased Sample Size' by Chitre et al. 2023
-
------------------
-
 # Prerequisites
 
 The code was run on a shared high-performance computing cluster (HPC system) with a PBS Resource Manager. On this system, we had access to four 2 x 12-core Intel Haswell processors with 64GB of main memory.  
