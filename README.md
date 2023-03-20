@@ -7,7 +7,7 @@ Each standalone script of the pipeline can be adapted for other systems with ade
 
 **Input files for GWAS analysis that utilized SNPs**: The Genotype, Phenotype and the Genetic Relatedness Matrix (GRM) files can be accessed from the __UC San Diego Library Digital Collections repository__ at https://library.ucsd.edu/dc/object/bb9156620z  
 
-**Input files required for linkage mapping using haplotypes** are present in this __Zenodo repository__.   
+**Input files required for linkage mapping using haplotypes** are present in the __Zenodo repository__ at https://doi.org/10.5281/zenodo.7753621.   
 
 
 
