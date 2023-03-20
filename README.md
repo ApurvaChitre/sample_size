@@ -104,7 +104,7 @@ _Arguments:_
 _Script name:_ calling_qtls.R
 
 # Linkage mapping with haplotypes 
-- We performed linkage mapping with haplotypes using `R/qtl2`. Input files required for linkage mapping using haplotypes are present in this __Zenodo repository__.   
+- We performed linkage mapping with haplotypes using `R/qtl2`. Input files required for linkage mapping using haplotypes are present in the __Zenodo repository__ at https://doi.org/10.5281/zenodo.7753621.   
 - We estimated founder haplotypes using the `calc_genoprob_fst` function with the cohort and founder strain genotypes.    
 - The kinship matrices were derived using the “leave one chromosome out” method with the `calc_kinship` function.  
 
