@@ -11,7 +11,6 @@ Each standalone script of the pipeline can be adapted for other systems with ade
 
 
 
-\vspace{0.5cm}
 
 # Programs Used & Version Information
 
@@ -22,11 +21,11 @@ Each standalone script of the pipeline can be adapted for other systems with ade
 - **R/QTL2FST**: 0.26
 - **PLINK**: 1.90
 
-\vspace{0.5cm}
+
 
 # Generating Random Subsamples 
 We performed 100 random subsamples in which we retained 500, 1,000, 1,500, 2,000, or 2,500 individuals (for fasting glucose we could not include 2,000 and 2,500 because the total sample size was smaller than 2,000) using the `sample()` function in `R`.  
-\vspace{0.1cm}
+
 
 
 
@@ -60,7 +59,7 @@ _Arguments:_
 -gk 1 : Calculates the centered relatedness matrix.  
 -o : Specifies the output file prefix.  
 
-\vspace{0.1cm}
+
 
 
 # GWAS for each subsampled dataset
